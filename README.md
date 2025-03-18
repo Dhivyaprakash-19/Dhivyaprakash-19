@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhivyaprakash</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **MERN,Java(core tech's)** 
+- 🌱 I’m currently learning **MERN,Java(core tech's)**     
 
 - 💬 Ask me about **Machine learning,Deep learning**
     
